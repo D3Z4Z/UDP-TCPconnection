@@ -1,1 +1,1 @@
-Same network UDP and TCP server and client scripts.
+Local network UDP and TCP server and client scripts.
